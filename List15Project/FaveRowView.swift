@@ -30,7 +30,7 @@ struct FaveRowView: View {
                 .font(.subheadline)
                 .autocapitalization(.none)
                 .disableAutocorrection(true)
-                .foregroundColor(.black)
+                .foregroundColor(.white)
                 .padding(7)
                 .background(Color(UIColor.systemGray4))
                 .cornerRadius(8)
